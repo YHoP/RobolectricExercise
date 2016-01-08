@@ -3,6 +3,8 @@ package com.ypeng.robolectricexercise;
 
 import android.content.Intent;
 
+import com.ypeng.robolectricexercise.login.LoginActivity;
+
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
